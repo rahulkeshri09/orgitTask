@@ -6,8 +6,34 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
-
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.search-container{
+  display:flex;
+  justify-content: space-around;
+  margin: auto;
+  height: 50px;
+  width:50%;
+  margin-top: 100px;
+}
+input{
+  border-radius: 10px;
+}
+button{
+  background-color:gray;
+  height: 40px;
+  width:100px;
+  border-radius: 10px;
+}
+.show-repo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.repo-name{
+  display: flex;
+  flex-direction: column;
+  width:70%;
+  margin:20px;
+  border: 1px solid gray;
+  border-radius: 10px;
+  background-color:lightblue;
 }
