@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/orgitTask/static/css/main.52596f58.chunk.css",
+    "main.js": "/orgitTask/static/js/main.17fad3e7.chunk.js",
+    "main.js.map": "/orgitTask/static/js/main.17fad3e7.chunk.js.map",
+    "runtime-main.js": "/orgitTask/static/js/runtime-main.baab0195.js",
+    "runtime-main.js.map": "/orgitTask/static/js/runtime-main.baab0195.js.map",
+    "static/js/2.2933b7d0.chunk.js": "/orgitTask/static/js/2.2933b7d0.chunk.js",
+    "static/js/2.2933b7d0.chunk.js.map": "/orgitTask/static/js/2.2933b7d0.chunk.js.map",
+    "index.html": "/orgitTask/index.html",
+    "static/css/main.52596f58.chunk.css.map": "/orgitTask/static/css/main.52596f58.chunk.css.map",
+    "static/js/2.2933b7d0.chunk.js.LICENSE.txt": "/orgitTask/static/js/2.2933b7d0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.baab0195.js",
+    "static/js/2.2933b7d0.chunk.js",
+    "static/css/main.52596f58.chunk.css",
+    "static/js/main.17fad3e7.chunk.js"
+  ]
+}
